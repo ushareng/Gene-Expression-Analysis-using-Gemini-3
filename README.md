@@ -29,7 +29,7 @@ By integrating AI-powered interpretation with standard computational genomics wo
 
 ## 📄 License
 
-This project is released under the [MIT License](LICENSE). You are free to use, modify, and distribute — please retain attribution to original author.
+This project is released under the [MIT License](LICENSE). 
 
 <img width="1536" height="1024" alt="ChatGPT Image Dec 3, 2025, 11_45_30 AM" src="https://github.com/user-attachments/assets/6468004f-1bad-44ce-93c4-4548153a87ab" />
 
