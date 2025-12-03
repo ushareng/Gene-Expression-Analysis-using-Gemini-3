@@ -32,6 +32,4 @@ By integrating AI-powered interpretation with standard computational genomics wo
 This project is released under the [MIT License](LICENSE). You are free to use, modify, and distribute — please retain attribution to original author.
 
 
-
-[2]: https://dev.to/github/how-to-create-the-perfect-readme-for-your-open-source-project-1k69?utm_source=chatgpt.com "How to Create the Perfect README for Your Open Source ..."
-
+<img width="1024" height="1536" alt="50732d44-05a4-4190-8a92-1dbd9063f783" src="https://github.com/user-attachments/assets/e026bc6c-673b-4740-ba73-2fadf36ff23d" />
