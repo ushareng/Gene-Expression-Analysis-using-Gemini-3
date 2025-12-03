@@ -1,4 +1,4 @@
-# Gene Expression Analysis using Gemini-3
+# Gene Expression Analysis using Gemini 3
 
 
 ## 🚀 Overview
